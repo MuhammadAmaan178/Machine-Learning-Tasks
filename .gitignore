@@ -1,0 +1,14 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
